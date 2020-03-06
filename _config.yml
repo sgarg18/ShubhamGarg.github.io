@@ -14,7 +14,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 subtitle                 : ""
-name                     : &name "Gagan Kanojia" # &name is a YAML anchor which can be *referenced later
+name                     : &name "Shubham Garg" # &name is a YAML anchor which can be *referenced later
 description              : &description ""
 url                      : https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : /about
@@ -111,18 +111,18 @@ author:
   bio              : "Ph.D. Candidate @ IIT Gandhinagar"
   location         : "Gandhinagar, Gujarat, India"
   links:
-    - label: "Google Scholar"
-      icon: "fas fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=oga-8i0AAAAJ&hl=en"
+#     - label: "Google Scholar"
+#       icon: "fas fa-graduation-cap"
+#       url: "https://scholar.google.com/citations?user=oga-8i0AAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/GaganKanojia"
+      url: "https://github.com/sgarg18"
     - label: "Email"
       icon: "fas fa-envelope"
-      url: "emailto:gagan.kanojia@iitgn.ac.in"
-    - label: "Orcid"
-      icon: "fab fa-orcid"
-      url: "http://orcid.org/0000-0001-7395-2350"
+      url: "emailto:garg.shubham@iitgn.ac.in"
+#     - label: "Orcid"
+#       icon: "fab fa-orcid"
+#       url: "http://orcid.org/0000-0001-7395-2350"
 
 
 # Site Footer
