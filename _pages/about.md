@@ -2,7 +2,7 @@
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/wallpaper.JPG
+  overlay_image: /assets/images/wallpaper.jpg
 title: "Shubham Garg <br /> <small>  <small>  M.Tech. Candidate, IIT Gandhinagar <small> <br /> Computer Vision | Deep Learning | Image Processing <small> <small> "
 excerpt: ""
 toc: true
