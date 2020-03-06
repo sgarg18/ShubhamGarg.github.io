@@ -108,7 +108,7 @@ naver_site_verification  :
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/profile.jpg"
-  bio              : "Ph.D. Candidate @ IIT Gandhinagar"
+  bio              : "M.Tech. Candidate @ IIT Gandhinagar"
   location         : "Gandhinagar, Gujarat, India"
   links:
 #     - label: "Google Scholar"
