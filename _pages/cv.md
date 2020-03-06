@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Download my CV here](http://GaganKanojia.github.io/files/cv.pdf)
+[Download my CV here](http://ShubhamGarg.github.io/files/resume.pdf)
